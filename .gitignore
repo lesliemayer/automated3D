@@ -1,0 +1,5 @@
+# Ignore compiled code
+*.pyc
+
+#Ignore generated macros
+*.FCMacro
